@@ -16,9 +16,11 @@
   <img src="https://img.shields.io/badge/-Open%20to%20Internships-0d1117?style=flat-square&labelColor=0d1117&color=22d3ee" />
 </p>
 
-<p>
-  <code>&gt; building systems that don't fall over under load_</code>
-</p>
+<br/>
+
+<a href="https://github.com/snmcodes99">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=building+systems+that+don't+fall+over+under+load_;designing+for+concurrency%2C+not+just+the+happy+path_;currently+shipping%3A+MarketHub_" alt="typing animation" />
+</a>
 
 </div>
 
@@ -206,6 +208,37 @@ the target, with system design and SQL depth as the current gaps being closed.
 
 <br/>
 
+## `stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=snmcodes99&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=34d399&text_color=c9d1d9&hide_rank=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snmcodes99&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=6" height="165" />
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=snmcodes99&theme=dark&hide_border=true&background=0d1117&ring=22D3EE&fire=34D399&currStreakLabel=22D3EE" height="165" />
+</div>
+
+<sub><i>These cards render as live SVGs from an external stats service — they refresh on their own each time your profile is viewed, no action needed from you.</i></sub>
+
+<br/>
+
+<details>
+<summary><strong>Contribution activity (animated)</strong></summary>
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/snmcodes99/snmcodes99/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%" />
+</div>
+
+<sub>Requires a one-time GitHub Actions workflow (`Platane/snk`) on your profile repo to generate this file — see setup note below.</sub>
+
+</details>
+
+<br/>
+
 ## `connect`
 
 <table width="100%">
@@ -238,3 +271,15 @@ the target, with system design and SQL depth as the current gaps being closed.
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2" />
+
+<br/>
+
+<details>
+<summary><sub>Setup notes (remove before publishing)</sub></summary>
+<br/>
+
+- **Typing header / stat cards** — these are `<img>` tags pointing to free public services (`readme-typing-svg`, `github-readme-stats`, `github-readme-streak-stats`). They already work with your `snmcodes99` username, no setup required, but response time can be slow on first load since the images render on-demand.
+- **Contribution snake animation** — this one needs a tiny one-time setup: add the `Platane/snk` GitHub Action to a repo named exactly `snmcodes99` (a special "profile README" repo). It runs on a schedule and generates the SVG this README points to. Instructions: `github.com/Platane/snk`. Until that's set up, that image will show broken.
+- All `<details>` blocks above are native GitHub Markdown — they genuinely expand/collapse on click, no service required.
+
+</details>
