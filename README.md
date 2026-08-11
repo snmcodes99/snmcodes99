@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Sahil Negi 👋
 
-<!--
-**snmcodes99/snmcodes99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend & Full-Stack Developer
 
-Here are some ideas to get you started:
+B.Tech CSE student focused on building scalable backend systems
+and full-stack applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Languages:** C++ · Java · JavaScript · SQL
+
+**Backend:** Node.js · Express · Spring Boot · REST APIs
+
+**Databases:** MongoDB · PostgreSQL · Redis
+
+**Frontend:** React · HTML · CSS
+
+**Tools:** Git · GitHub · Docker
+
+### 🚀 Featured Projects
+
+- 🛒 **MarketHub** — Scalable e-commerce backend
+- ⚡ **EventFlow** — Event streaming system
+- 🔋 **EV Charging Optimizer** — Graph-based optimization system
+- 🗳️ **Decentralized Voting System** — Blockchain-based voting
+
+### 📊 Problem Solving
+
+- 200+ LeetCode problems
+- Strong foundation in DSA
+- Currently focusing on System Design & Backend Engineering
+
+### 🔗 Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) ·
+[Portfolio](YOUR_PORTFOLIO_URL) ·
+[LeetCode](YOUR_LEETCODE_URL)
