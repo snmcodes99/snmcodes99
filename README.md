@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:0d1117&height=180&section=header&text=Sahil%20Negi&fontSize=42&fontColor=22d3ee&fontAlignY=35&desc=Backend%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=55&descColor=c9d1d9" width="100%"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkulr4XvV-BWK5HOlN8ZjP8UZx7G7nKYd__jn0FicoHXOj_VCH13AWlzg&s=10" width="100%"/>
 
 <br/>
 
