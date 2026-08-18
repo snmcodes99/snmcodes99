@@ -93,7 +93,8 @@ alt="Technology stack"
 
 Completed backend covering authentication, seller onboarding, catalog management, orders and payments.
 
-`Node.js` `Express` `MongoDB` `Redis` `Razorpay`
+`Node.js` `Express` `MongoDB`
+`Redis` `Razorpay` `Docker`
 
 <details>
 <summary><code>view details</code></summary>
@@ -249,42 +250,24 @@ alt="GitHub activity graph"
 
 ---
 
-## `> contributions`
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/snmcodes99/snmcodes99/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/snmcodes99/snmcodes99/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/snmcodes99/snmcodes99/output/github-snake.svg"
-    width="100%"
-    alt="GitHub contribution activity"
-  />
-</picture>
-
-</div>
-
----
-
 ## `> connect`
 
 <div align="center">
 
 <a href="https://github.com/snmcodes99">
-<img src="https://img.shields.io/badge/GitHub-snmcodes99-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" />
+<img
+  src="https://img.shields.io/badge/GitHub-snmcodes99-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE"
+  alt="GitHub"
+/>
 </a>
 
  
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" />
+<img
+  src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE"
+  alt="LinkedIn"
+/>
 </a>
 
 <br/><br/>
