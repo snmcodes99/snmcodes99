@@ -1,13 +1,12 @@
 <div align="center">
 
+
 <div align="center">
 
-<img 
-  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkulr4XvV-BWK5HOlN8ZjP8UZx7G7nKYd__jn0FicoHXOj_VCH13AWlzg&s=10"
-  width="180"
-  height="180"
-  style="border-radius: 50%; object-fit: cover;"
-  alt="Sahil Negi"
+<img
+  src="./assets/banner.png"
+  width="100%"
+  alt="Sahil Negi - Backend & Full-Stack Developer"
 />
 
 </div>
