@@ -1,270 +1,222 @@
 <div align="center">
 
-<img
-src="./assets/banner.png"
-width="100%"
-alt="Sahil Negi - Backend & Full-Stack Developer"
-/>
+<img src="./assets/banner.png" width="100%" alt="Sahil Negi — Backend & Full-Stack Developer"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=780&lines=%3E+building+reliable+backend+systems;%3E+designing+beyond+the+happy+path;%3E+backend+%7C+system+design+%7C+distributed+systems;%3E+build+%3E+solve+%3E+iterate+%3E+ship" />
+<a href="https://github.com/snmccodes99">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00E7FF&center=true&vCenter=true&width=700&lines=Backend+%26+Full-Stack+Developer;Building+Scalable+Systems;Turning+Ideas+Into+Working+Products;Always+Learning.+Always+Shipping." alt="Typing SVG"/>
+</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Backend-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/System_Design-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/DSA-0D1117?style=for-the-badge&logo=leetcode&logoColor=34D399" />
-<img src="https://img.shields.io/badge/Open_to_Internships-0D1117?style=for-the-badge&logo=rocket&logoColor=34D399" />
+<img src="https://komarev.com/ghpvc/?username=snmccodes99&label=PROFILE+VIEWS&color=00e7ff&style=flat-square" />
+<img src="https://img.shields.io/github/followers/snmccodes99?label=FOLLOWERS&style=flat-square&color=00e7ff" />
+<img src="https://img.shields.io/github/stars/snmccodes99?label=STARS&style=flat-square&color=ff3b3b" />
 
 </div>
 
-<br/>
-
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-## `> whoami`
-
-**Backend & Full-Stack Developer** focused on building reliable systems with clean architecture, strong data modeling and practical API design.
-
-Interested in the problems behind the API — **concurrency, scalability, distributed systems and system design.**
-
-Currently deepening **PostgreSQL, system design and distributed systems**.
-
-</td>
-
-<td width="45%" valign="top">
-
-## `> focus`
-
-```text
-BACKEND        ████████████████████
-SYSTEM DESIGN  ████████████████░░░░
-POSTGRESQL     ███████████████░░░░░
-DISTRIBUTED    ██████████████░░░░░░
-DSA            █████████████░░░░░░░
-AWS            ███████████░░░░░░░░░
-```
-
-</td>
-</tr>
-</table>
-
 ---
-
-## `> stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,java,nodejs,express,mongodb,postgres,redis,docker,aws,react,git,githubactions&perline=7" />
+## `whoami`
 
-<br/><br/>
+</div>
+
+```bash
+$ whoami
+
+Sahil Negi
+Backend-focused Software Engineering Student
+
+> Building full-stack products
+> Designing backend systems
+> Exploring distributed systems
+> Solving DSA problems
+> Learning by shipping
+```
+
+I'm a **B.Tech Computer Science student** focused on backend and full-stack engineering.
+
+I enjoy going beyond basic CRUD — designing APIs, structuring services, working with databases and caching, implementing authentication, optimizing systems, and deploying applications that actually work outside localhost.
+
+Currently exploring **system design, distributed systems, cloud infrastructure, testing, and production-grade backend architecture.**
+
+---
+
+<div align="center">
+
+## `tech_stack`
+
+### ⚡ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,typescript,java&theme=dark" />
+
+### 🗄️ Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker&theme=dark" />
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css&theme=dark" />
+
+### ☁️ Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `what_i_build`
+
+</div>
 
 <table>
 <tr>
-<td align="center"><b>BACKEND</b><br/>Node.js · Express · REST APIs</td>
-<td align="center"><b>DATA</b><br/>MongoDB · PostgreSQL · Redis</td>
-<td align="center"><b>INFRA</b><br/>Docker · AWS · GitHub Actions</td>
-</tr>
-</table>
+<td width="50%">
 
-</div>
+### 🛒 MarketHub
 
----
+**Full-Stack E-Commerce Platform**
 
-## `> selected_work`
+A production-style e-commerce application built from scratch with authentication, seller workflows, product management, orders, filtering, pagination, caching and deployment.
 
-<table width="100%">
-<tr>
+**Stack**
 
-<td width="50%" valign="top">
-
-### `01 // MarketHub`
-
-**Multi-vendor commerce backend**
-
-Completed backend covering authentication, seller onboarding, catalog, orders and payments.
-
-<br/>
-
-`Node.js` `Express` `MongoDB`
-`Redis` `Razorpay` `Docker`
-
-<br/>
-
-**Focus**
-
-`RBAC` · `Data Modeling` · `Transactions` · `Caching`
+`Node.js` `Express` `MongoDB` `Redis` `React`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### `02 // EventFlow`
+### ⚙️ FlowEngine
 
-**Event management platform**
+**Workflow Orchestration Engine**
 
-Backend-first system for scheduling, registration and capacity tracking across multi-session events.
-
-<br/>
-
-`Node.js` `Express` `MongoDB`
-`REST APIs`
-
-<br/>
+A backend-focused orchestration system designed around multi-step workflows, retries, recovery, scheduling, worker coordination and monitoring.
 
 **Focus**
 
-`API Design` · `State Management` · `Capacity`
+`Backend` `Distributed Systems` `Reliability`
 
 </td>
-
 </tr>
 
 <tr>
+<td width="50%">
 
-<td width="50%" valign="top">
+### ⚡ EV Charging Optimizer
 
-### `03 // EV Charging Optimizer`
+**EV Routing & Charging Optimization**
 
-**Charging allocation & optimization**
+A full-stack system combining web technologies with a C++ optimization engine for route planning and intelligent charging-station selection.
 
-Combines graph algorithms with optimization logic to distribute charging demand across stations.
+**Stack**
 
-<br/>
-
-`C++` `FastAPI` `PostgreSQL`
-`Node.js` `React`
-
-<br/>
-
-**Focus**
-
-`Dijkstra` · `Graph Algorithms` · `Optimization`
+`React` `FastAPI` `MongoDB` `C++`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### `04 // Decentralized Voting`
+### 🗳️ Decentralized Voting
 
-**Verifiable voting system**
+**Blockchain Voting Platform**
 
-Explores secure vote recording by combining a conventional backend with blockchain technology.
+A decentralized voting platform exploring secure authentication, smart contracts and blockchain-backed election workflows.
 
-<br/>
+**Stack**
 
-`Node.js` `Express` `MongoDB`
-`Solidity` `Ethereum`
-
-<br/>
-
-**Focus**
-
-`Integrity` · `Verification` · `Blockchain`
+`Java` `Spring Boot` `Solidity` `MongoDB`
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-## `> what_im_learning`
+<details>
+<summary><b>🧠 What I'm currently learning</b></summary>
 
-<div align="center">
+<br/>
 
-<table width="90%">
-<tr>
-<td align="center" width="25%">
+```text
+Backend Engineering
+       │
+       ├── API Design
+       ├── Authentication & Authorization
+       ├── Databases
+       ├── Redis & Caching
+       ├── Testing
+       │
+       ▼
+System Design
+       │
+       ├── Scalability
+       ├── Distributed Systems
+       ├── Message Queues
+       ├── Fault Tolerance
+       │
+       ▼
+Cloud & Infrastructure
+       │
+       ├── AWS
+       ├── Docker
+       ├── CI/CD
+       └── Deployment
+```
 
-### `01`
+</details>
 
-**System Design**
+<details>
+<summary><b>🧩 DSA Progress</b></summary>
 
-Architecture
-Scalability
-Tradeoffs
+<br/>
 
-</td>
+```text
+LeetCode
+───────────────
+200+ Problems
 
-<td align="center" width="25%">
+✓ Arrays
+✓ Strings
+✓ Hashing
+✓ Linked Lists
+✓ Stack / Queue
+✓ Trees
+→ Graphs
+→ Dynamic Programming
+→ Advanced Problems
+```
 
-### `02`
+</details>
 
-**PostgreSQL**
+<details>
+<summary><b>🔬 Engineering Interests</b></summary>
 
-Relational Modeling
-Query Optimization
-Transactions
+<br/>
 
-</td>
+`Backend Systems` · `System Design` · `Distributed Systems`
 
-<td align="center" width="25%">
+`Databases` · `Caching` · `Cloud Infrastructure`
 
-### `03`
+`Developer Tools` · `AI-powered Applications`
 
-**Distributed Systems**
-
-Concurrency
-Caching
-Reliability
-
-</td>
-
-<td align="center" width="25%">
-
-### `04`
-
-**AWS**
-
-Deployment
-Infrastructure
-Cloud Architecture
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## `> github_activity`
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=snmcodes99&bg_color=0D1117&color=22D3EE&line=34D399&point=FFFFFF&area=true&hide_border=true"
-width="100%"
-alt="GitHub activity graph"
-/>
-
-</div>
+</details>
 
 ---
 
-## `> contributions`
-
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/snmcodes99/snmcodes99/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/snmcodes99/snmcodes99/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/snmcodes99/snmcodes99/output/github-snake.svg"
-    width="100%"
-    alt="GitHub contribution activity"
-  />
-</picture>
+## `current_status`
+
+<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-00e7ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Status-Building-ff3b3b?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/DSA-Active-00e7ff?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -272,29 +224,44 @@ alt="GitHub activity graph"
 
 <div align="center">
 
-## `> connect`
+## `github_activity`
 
-<a href="https://github.com/snmcodes99">
-<img src="https://img.shields.io/badge/GitHub-snmcodes99-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+<img src="https://github-readme-stats.vercel.app/api?username=snmccodes99&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e7ff&icon_color=ff3b3b&text_color=c9d1d9" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snmccodes99&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e7ff&text_color=c9d1d9" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `connect`
+
+<a href="https://github.com/snmccodes99">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
-<a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e7ff"/>
 </a>
 
 <br/><br/>
 
-<sub>Open to backend engineering internships</sub>
+**Open to Software Engineering · Backend · Full-Stack · Internship opportunities**
 
-<br/><br/>
+<br/>
 
-<code>build → solve → iterate → ship</code>
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│   BUILD  →  LEARN  →  BREAK  →  FIX  →  SHIP │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
-<br/><br/>
+<br/>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:111827,100:0D1117&height=90&section=footer"
-width="100%"
-/>
+### `// keep building. keep learning. keep shipping.`
 
 </div>
