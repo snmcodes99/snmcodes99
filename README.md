@@ -1,6 +1,16 @@
 <div align="center">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkulr4XvV-BWK5HOlN8ZjP8UZx7G7nKYd__jn0FicoHXOj_VCH13AWlzg&s=10" width="100%"/>
+<div align="center">
+
+<img 
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkulr4XvV-BWK5HOlN8ZjP8UZx7G7nKYd__jn0FicoHXOj_VCH13AWlzg&s=10"
+  width="180"
+  height="180"
+  style="border-radius: 50%; object-fit: cover;"
+  alt="Sahil Negi"
+/>
+
+</div>
 
 <br/>
 
