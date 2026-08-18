@@ -1,285 +1,317 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2" />
-
-<br/>
-
-<h1>
-  <code>Sahil Negi</code>
-</h1>
-
-<h3>Backend & Full-Stack Developer</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/-B.Tech%20CSE-0d1117?style=flat-square&labelColor=0d1117&color=22d3ee" />
-  <img src="https://img.shields.io/badge/-Backend%20Focused-0d1117?style=flat-square&labelColor=0d1117&color=34d399" />
-  <img src="https://img.shields.io/badge/-Open%20to%20Internships-0d1117?style=flat-square&labelColor=0d1117&color=22d3ee" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:0d1117&height=180&section=header&text=Sahil%20Negi&fontSize=42&fontColor=22d3ee&fontAlignY=35&desc=Backend%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=55&descColor=c9d1d9" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/snmcodes99">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=building+systems+that+don't+fall+over+under+load_;designing+for+concurrency%2C+not+just+the+happy+path_;currently+shipping%3A+MarketHub_" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+systems+that+survive+real+traffic;Designing+for+concurrency%2C+not+just+the+happy+path;Backend+%7C+Distributed+Systems+%7C+System+Design;Currently+shipping%3A+MarketHub" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/snmcodes99">
+<img src="https://img.shields.io/github/followers/snmcodes99?style=flat-square&color=22d3ee&labelColor=0d1117&label=Followers"/>
+</a>
+<a href="https://github.com/snmcodes99?tab=repositories">
+<img src="https://img.shields.io/badge/Focus-Backend-34d399?style=flat-square&labelColor=0d1117"/>
+</a>
+<a href="https://github.com/snmcodes99">
+<img src="https://img.shields.io/badge/Status-Building-22d3ee?style=flat-square&labelColor=0d1117"/>
 </a>
 
 </div>
 
-<br/>
+---
 
-    $ whoami
+## `whoami`
 
-I'm Sahil — a backend-leaning full-stack developer focused on designing systems that
-are correct under concurrency, not just correct on the happy path. I care about
-clean API design, data modeling that survives real usage, and code that a teammate
-can read without a walkthrough. Currently building toward backend engineering roles
+```bash
+$ whoami
+
+sahil@backend-engineer:~$ cat profile.txt
+
+Backend-leaning full-stack developer.
+
+I enjoy building systems where the interesting problems
+aren't just "does the API work?"
+
+I'm interested in:
+
+→ concurrency
+→ distributed systems
+→ data modeling
+→ scalable APIs
+→ caching
+→ queues & async processing
+→ system design
+→ production reliability
+
+Currently building toward backend engineering roles
 at startups and product-based companies.
+```
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**Currently building**
-MarketHub — a multi-vendor e-commerce backend
+### `CURRENTLY`
 
-</td>
-<td width="50%" valign="top">
+|      🚀 Building      |     🧠 Learning     |      🎯 Target      |
+| :-------------------: | :-----------------: | :-----------------: |
+|     **MarketHub**     |    System Design    | Backend Engineering |
+| Multi-vendor commerce |      PostgreSQL     |  Product Companies  |
+| Production deployment | Distributed Systems |       Startups      |
 
-**Currently sharpening**
-System design, PostgreSQL depth, DSA
+</div>
 
-</td>
-</tr>
-</table>
-
-<br/>
+---
 
 ## `tech_stack`
 
-<table width="100%">
-<tr>
-<td width="20%"><strong>Languages</strong></td>
-<td width="80%">
-<img src="https://img.shields.io/badge/-C++-0d1117?style=flat-square&labelColor=0d1117&color=22d3ee" />
-<img src="https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&labelColor=0d1117&color=22d3ee" />
-<img src="https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&labelColor=0d1117&color=22d3ee" />
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Backend</strong></td>
-<td>
-<img src="https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&labelColor=0d1117&color=34d399" />
-<img src="https://img.shields.io/badge/-Express-0d1117?style=flat-square&labelColor=0d1117&color=34d399" />
-<img src="https://img.shields.io/badge/-REST%20APIs-0d1117?style=flat-square&labelColor=0d1117&color=34d399" />
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Data</strong></td>
-<td>
-<img src="https://img.shields.io/badge/-MongoDB-0d1117?style=flat-square&labelColor=0d1117&color=22d3ee" />
-<img src="https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&labelColor=0d1117&color=22d3ee" />
-<img src="https://img.shields.io/badge/-Redis-0d1117?style=flat-square&labelColor=0d1117&color=22d3ee" />
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Frontend</strong></td>
-<td>
-<img src="https://img.shields.io/badge/-React-0d1117?style=flat-square&labelColor=0d1117&color=34d399" />
-<img src="https://img.shields.io/badge/-HTML/CSS-0d1117?style=flat-square&labelColor=0d1117&color=34d399" />
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Infra & Tools</strong></td>
-<td>
-<img src="https://img.shields.io/badge/-Docker-0d1117?style=flat-square&labelColor=0d1117&color=22d3ee" />
-<img src="https://img.shields.io/badge/-AWS-0d1117?style=flat-square&labelColor=0d1117&color=22d3ee" />
-<img src="https://img.shields.io/badge/-Git-0d1117?style=flat-square&labelColor=0d1117&color=22d3ee" />
-<img src="https://img.shields.io/badge/-GitHub%20Actions-0d1117?style=flat-square&labelColor=0d1117&color=22d3ee" />
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Core</strong></td>
-<td>
-<img src="https://img.shields.io/badge/-System%20Design-0d1117?style=flat-square&labelColor=0d1117&color=34d399" />
-<img src="https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-0d1117?style=flat-square&labelColor=0d1117&color=34d399" />
-</td>
-</tr>
-</table>
+<div align="center">
 
-<br/>
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,java" />
+
+<br/><br/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br/><br/>
+
+### Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,aws" />
+
+<br/><br/>
+
+### Frontend & Tools
+
+<img src="https://skillicons.dev/icons?i=react,html,css,git,githubactions" />
+
+</div>
+
+---
 
 ## `featured_projects`
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### 🛒 MarketHub
 
-### MarketHub
+> **Multi-vendor e-commerce backend**
 
-Multi-vendor e-commerce backend built for real-world traffic patterns — vendor
-onboarding, catalog management, order orchestration, and payments in one system.
+A production-oriented commerce backend designed around real-world backend problems rather than basic CRUD.
+
+**Architecture**
+
+```text
+Client
+  │
+  ▼
+REST API
+  │
+  ├── Authentication
+  ├── Product / Category
+  ├── Seller Management
+  ├── Order Processing
+  ├── Payment Integration
+  │
+  ▼
+Service Layer
+  │
+  ├── MongoDB
+  ├── Redis
+  └── Razorpay
+```
+
+**Focus**
+
+`Data Modeling` `Concurrency` `Transactions` `Caching` `Payments` `RBAC`
+
+**Stack**
 
 `Node.js` `Express` `MongoDB` `Redis` `Razorpay` `Docker` `AWS`
 
-<sub>Flagship project · deployment in progress</sub>
+---
 
-</td>
-<td width="50%" valign="top">
+### ⚡ EventFlow
 
-### EventFlow
+> **Backend-first event management platform**
 
-Event management platform handling scheduling, registration, and real-time
-capacity/status tracking for multi-session events.
+Designed around scheduling, registration and capacity management for multi-session events.
+
+**Focus**
+
+`API Design` `Capacity Tracking` `State Management` `Data Modeling`
+
+**Stack**
 
 `Node.js` `Express` `MongoDB` `REST APIs`
 
-<sub>Backend-first architecture</sub>
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 🔌 EV Charging Optimizer
 
-### EV Charging Optimizer
+> **Optimization system for EV charging infrastructure**
 
-System for modeling and optimizing EV charging station allocation — balancing
-load distribution, availability, and scheduling logic.
+Models charging stations and optimizes allocation based on distance, capacity, availability and system load.
 
-`Node.js` `PostgreSQL` `System Design`
+**Core**
 
-<sub>Optimization-focused backend</sub>
+```text
+Graph Modeling
+      ↓
+Shortest Path
+      ↓
+Station Utility
+      ↓
+Demand Allocation
+      ↓
+Load Optimization
+```
 
-</td>
-<td width="50%" valign="top">
+**Stack**
 
-### Decentralized Voting System
+`C++` `Node.js` `PostgreSQL` `FastAPI` `React`
 
-Voting system exploring tamper-resistant, verifiable vote recording without a
-central point of trust.
+---
 
-`Node.js` `Blockchain Concepts` `Express`
+### 🗳️ Decentralized Voting System
 
-<sub>Integrity & verifiability focus</sub>
+> **Tamper-resistant voting architecture**
 
-</td>
-</tr>
-</table>
+Explores verifiable vote recording using blockchain concepts while maintaining a conventional application layer.
 
-<br/>
+**Focus**
 
-<details>
-<summary><strong>Architecture notes & design decisions</strong></summary>
-<br/>
+`Integrity` `Verification` `Authentication` `Blockchain`
 
-Each project above is built with a deliberate focus on the backend fundamentals
-that tend to get skipped in portfolio projects:
+**Stack**
 
-- **Data modeling first** — schemas designed around actual query patterns, not just CRUD convenience
-- **Concurrency-aware** — considering race conditions and locking where money or state consistency is involved
-- **Deployability** — containerized with Docker, CI via GitHub Actions, deployed on AWS rather than left running locally
-- **Documented decisions** — architectural tradeoffs recorded, not just code
+`Node.js` `Express` `MongoDB` `Solidity`
 
-</details>
+---
 
-<br/>
+## `engineering_principles`
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   DATA FIRST                                            │
+│   Design schemas around access patterns.                │
+│                                                         │
+│   ─────────────────────────────────────────────────     │
+│                                                         │
+│   CONCURRENCY AWARE                                     │
+│   Think about race conditions before production does.   │
+│                                                         │
+│   ─────────────────────────────────────────────────     │
+│                                                         │
+│   FAILURE IS NORMAL                                     │
+│   Retries, idempotency and recovery are features.       │
+│                                                         │
+│   ─────────────────────────────────────────────────     │
+│                                                         │
+│   DEPLOY EARLY                                          │
+│   A project isn't finished because it runs locally.     │
+│                                                         │
+│   ─────────────────────────────────────────────────     │
+│                                                         │
+│   EXPLAIN YOUR TRADEOFFS                                │
+│   Architecture decisions matter as much as code.        │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
 
 ## `current_focus`
 
-    [x] Multi-vendor backend architecture (MarketHub)
-    [x] Payment gateway integration
-    [ ] PostgreSQL — deeper relational modeling & query optimization
-    [ ] Load testing & concurrency validation under real traffic
-    [ ] DSA — consistent problem-solving practice
-    [ ] System design — case studies & tradeoff analysis
+```text
+[████████████████████░░] MarketHub
+[███████████████░░░░░░░] System Design
+[██████████████░░░░░░░░] PostgreSQL
+[████████████░░░░░░░░░░] Distributed Systems
+[███████████░░░░░░░░░░░] DSA
+[████████░░░░░░░░░░░░░░] AWS
+```
 
-<br/>
+### What I'm working on
 
-<details>
-<summary><strong>What I'm optimizing for right now</strong></summary>
-<br/>
+* Building MarketHub beyond basic CRUD
+* Adding production-grade payment and order flows
+* Deepening PostgreSQL and relational modeling
+* Learning distributed systems and system design
+* Testing backend behavior under concurrency
+* Improving DSA consistency
 
-Right now the focus is depth over breadth — fewer projects, each one taken to a
-state where it's actually deployed, load-tested, and defensible in a technical
-interview. Backend engineering roles at startups and product-based companies are
-the target, with system design and SQL depth as the current gaps being closed.
+---
 
-</details>
-
-<br/>
-
-## `stats`
+## `github_activity`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=snmcodes99&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=34d399&text_color=c9d1d9&hide_rank=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snmcodes99&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=6" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=snmcodes99&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=34d399&text_color=c9d1d9&hide_rank=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snmcodes99&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=6" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=snmcodes99&theme=dark&hide_border=true&background=0d1117&ring=22D3EE&fire=34D399&currStreakLabel=22D3EE" height="165"/>
 
 </div>
+
+---
+
+## `contribution_graph`
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snmcodes99&theme=dark&hide_border=true&background=0d1117&ring=22D3EE&fire=34D399&currStreakLabel=22D3EE" height="165" />
+
+<img src="https://raw.githubusercontent.com/snmcodes99/snmcodes99/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
+
 </div>
 
-<sub><i>These cards render as live SVGs from an external stats service — they refresh on their own each time your profile is viewed, no action needed from you.</i></sub>
+---
 
-<br/>
-
-<details>
-<summary><strong>Contribution activity (animated)</strong></summary>
-<br/>
+## `activity`
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/snmcodes99/snmcodes99/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snmcodes99&bg_color=0d1117&color=22d3ee&line=34d399&point=ffffff&area=true&hide_border=true" width="100%"/>
+
 </div>
 
-<sub>Requires a one-time GitHub Actions workflow (`Platane/snk`) on your profile repo to generate this file — see setup note below.</sub>
-
-</details>
-
-<br/>
+---
 
 ## `connect`
 
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-**GitHub**
-[@snmcodes99](https://github.com/snmcodes99)
-
-</td>
-<td width="33%" align="center">
-
-**LinkedIn**
-`add your link`
-
-</td>
-<td width="33%" align="center">
-
-**Email**
-`add your email`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <div align="center">
-<sub><code>build_status: shipping</code></sub>
+
+<a href="https://github.com/snmcodes99">
+<img src="https://img.shields.io/badge/GitHub-snmcodes99-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee"/>
+</a>
+
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee"/>
+</a>
+
+<br/><br/>
+
+`Open to backend engineering internships`
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2" />
+---
 
-<br/>
+<div align="center">
 
-<details>
-<summary><sub>Setup notes (remove before publishing)</sub></summary>
-<br/>
+```text
+building → testing → breaking → fixing → shipping
+```
 
-- **Typing header / stat cards** — these are `<img>` tags pointing to free public services (`readme-typing-svg`, `github-readme-stats`, `github-readme-streak-stats`). They already work with your `snmcodes99` username, no setup required, but response time can be slow on first load since the images render on-demand.
-- **Contribution snake animation** — this one needs a tiny one-time setup: add the `Platane/snk` GitHub Action to a repo named exactly `snmcodes99` (a special "profile README" repo). It runs on a schedule and generates the SVG this README points to. Instructions: `github.com/Platane/snk`. Until that's set up, that image will show broken.
-- All `<details>` blocks above are native GitHub Markdown — they genuinely expand/collapse on click, no service required.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:0d1117&height=100&section=footer" width="100%"/>
 
-</details>
+</div>
